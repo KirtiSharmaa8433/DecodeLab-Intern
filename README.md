@@ -25,22 +25,7 @@ This repository contains projects, assignments, and practical implementations co
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
-## 📂 Repository Structure
-
-```
-DecodeLab-Internship/
-│
-├── Assignments/
-├── Datasets/
-├── PowerBI_Dashboards/
-├── SQL_Projects/
-├── Python_Projects/
-├── EDA_Projects/
-├── Reports/
-└── README.md
-```
-
+- 
 ## 📊 Key Skills Demonstrated
 
 ### Data Cleaning & Preprocessing
@@ -89,8 +74,6 @@ Through this internship, I gained practical experience in:
 ## 👩‍💻 Author
 
 **Kirti Sharma**
-- B.Tech CSE (AI & ML)
-- KIET Group of Institutions
 - Aspiring Data Analyst | Data Engineer | Business Intelligence Analyst
 
 ### Connect With Me
